@@ -1,6 +1,6 @@
 # dotProject
 
-Modernized dotProject for PHP 8.4 and MariaDB 11 while preserving the original ACL model, workflow and simplicity.
+Modernized dotProject for PHP 8.5 and MariaDB 11 while preserving the original ACL model, workflow and simplicity.
 
 ## Project Goals
 
