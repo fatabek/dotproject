@@ -1,6 +1,6 @@
 # Vision
 
-The goal of this project is to modernize dotProject for PHP 8.4 and MariaDB 11 while preserving its original workflow, ACL model and user experience.
+The goal of this project is to modernize dotProject for PHP 8.5 and MariaDB 11 while preserving its original workflow, ACL model and user experience.
 
 ## Principles
 
