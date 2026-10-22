@@ -2,7 +2,7 @@
 
 ## Phase 1 - Core Modernization
 
-- PHP 8.4 compatibility
+- PHP 8.5 compatibility
 - MariaDB 11 compatibility
 - User management
 - ACL verification
